@@ -1,4 +1,6 @@
 # USB Button GamePad
+![alt text](https://raw.githubusercontent.com/WWRC-FRC/GamePad/master/GamePad.jpg "Button board")
+
 ## Tiva Launchpad as USB controller
 This example application turns a Tiva Launchpad into a USB game pad device using the Human Interface Device gamepad class. 
 
