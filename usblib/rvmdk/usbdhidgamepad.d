@@ -1,0 +1,13 @@
+.\rvmdk\usbdhidgamepad.o: device\usbdhidgamepad.c
+.\rvmdk\usbdhidgamepad.o: C:\Keil\ARM\ARMCC\bin\..\include\stdbool.h
+.\rvmdk\usbdhidgamepad.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\rvmdk\usbdhidgamepad.o: C:\ti\TivaWare_C_Series\inc/hw_types.h
+.\rvmdk\usbdhidgamepad.o: C:\ti\TivaWare_C_Series\driverlib/debug.h
+.\rvmdk\usbdhidgamepad.o: C:\ti\TivaWare_C_Series\driverlib/usb.h
+.\rvmdk\usbdhidgamepad.o: ..\usblib/usblib.h
+.\rvmdk\usbdhidgamepad.o: ..\usblib/usblibpriv.h
+.\rvmdk\usbdhidgamepad.o: ..\usblib/device/usbdevice.h
+.\rvmdk\usbdhidgamepad.o: ..\usblib/device/usbdevicepriv.h
+.\rvmdk\usbdhidgamepad.o: ..\usblib/usbhid.h
+.\rvmdk\usbdhidgamepad.o: ..\usblib/device/usbdhid.h
+.\rvmdk\usbdhidgamepad.o: ..\usblib/device/usbdhidgamepad.h

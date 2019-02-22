@@ -1,0 +1,10 @@
+.\rvmdk\usbdcdesc.o: device\usbdcdesc.c
+.\rvmdk\usbdcdesc.o: C:\Keil\ARM\ARMCC\bin\..\include\stdbool.h
+.\rvmdk\usbdcdesc.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\rvmdk\usbdcdesc.o: C:\ti\TivaWare_C_Series\inc/hw_types.h
+.\rvmdk\usbdcdesc.o: C:\ti\TivaWare_C_Series\driverlib/debug.h
+.\rvmdk\usbdcdesc.o: C:\ti\TivaWare_C_Series\driverlib/usb.h
+.\rvmdk\usbdcdesc.o: ..\usblib/usblib.h
+.\rvmdk\usbdcdesc.o: ..\usblib/usblibpriv.h
+.\rvmdk\usbdcdesc.o: ..\usblib/device/usbdevice.h
+.\rvmdk\usbdcdesc.o: ..\usblib/device/usbdevicepriv.h

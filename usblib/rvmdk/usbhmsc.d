@@ -1,0 +1,12 @@
+.\rvmdk\usbhmsc.o: host\usbhmsc.c
+.\rvmdk\usbhmsc.o: C:\Keil\ARM\ARMCC\bin\..\include\stdbool.h
+.\rvmdk\usbhmsc.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\rvmdk\usbhmsc.o: C:\ti\TivaWare_C_Series\inc/hw_types.h
+.\rvmdk\usbhmsc.o: C:\ti\TivaWare_C_Series\driverlib/usb.h
+.\rvmdk\usbhmsc.o: ..\usblib/usblib.h
+.\rvmdk\usbhmsc.o: ..\usblib/usblibpriv.h
+.\rvmdk\usbhmsc.o: ..\usblib/usbmsc.h
+.\rvmdk\usbhmsc.o: ..\usblib/host/usbhost.h
+.\rvmdk\usbhmsc.o: ..\usblib/host/usbhostpriv.h
+.\rvmdk\usbhmsc.o: ..\usblib/host/usbhmsc.h
+.\rvmdk\usbhmsc.o: ..\usblib/host/usbhscsi.h

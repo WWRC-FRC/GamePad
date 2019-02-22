@@ -1,0 +1,43 @@
+Dependencies for Project 'usb_dev_gamepad', Target 'usb_dev_gamepad': (DO NOT MODIFY !)
+F (.\startup_rvmdk.S)(0x5C50A0E0)(--cpu Cortex-M4.fp -g --apcs=interwork --pd "__MICROLIB SETA 1"-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary-o .\rvmdk\startup_rvmdk.o --depend .\rvmdk\startup_rvmdk.d)
+F (.\usb_dev_gamepad.c)(0x5C5BC2C0)(-c --cpu Cortex-M4.fp -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I.. -I..\..\..\.. -IC:\ti\TivaWare_C_Series\ --c99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary-Drvmdk -DPART_TM4C123GH6PM -DTARGET_IS_TM4C123_RA1 -DUART_BUFFERED-o .\rvmdk\usb_dev_gamepad.o --omf_browse .\rvmdk\usb_dev_gamepad.crf --depend .\rvmdk\usb_dev_gamepad.d)
+I (C:\Keil\ARM\ARMCC\include\stdbool.h)(0x51C87C24)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C87C24)
+I (C:\ti\TivaWare_C_Series\inc\hw_memmap.h)(0x558DD24A)
+I (C:\ti\TivaWare_C_Series\inc\hw_types.h)(0x558DD24A)
+I (C:\ti\TivaWare_C_Series\inc\hw_gpio.h)(0x558DD24A)
+I (C:\ti\TivaWare_C_Series\inc\hw_sysctl.h)(0x558DD24A)
+I (C:\ti\TivaWare_C_Series\driverlib\adc.h)(0x558DD23B)
+I (C:\ti\TivaWare_C_Series\driverlib\debug.h)(0x558DD23B)
+I (C:\ti\TivaWare_C_Series\driverlib\gpio.h)(0x558DD23B)
+I (C:\ti\TivaWare_C_Series\driverlib\interrupt.h)(0x558DD23B)
+I (C:\ti\TivaWare_C_Series\driverlib\pin_map.h)(0x558DD23B)
+I (C:\ti\TivaWare_C_Series\driverlib\rom.h)(0x558DD23B)
+I (C:\ti\TivaWare_C_Series\driverlib\sysctl.h)(0x558DD23B)
+I (C:\ti\TivaWare_C_Series\driverlib\uart.h)(0x558DD23B)
+I (..\usblib/usblib.h)(0x587F336F)
+I (..\usblib/usbhid.h)(0x587F336F)
+I (..\usblib/device/usbdevice.h)(0x587F336F)
+I (..\usblib/device/usbdevicepriv.h)(0x587F336F)
+I (..\usblib/device/usbdhid.h)(0x587F336F)
+I (..\usblib/device/usbdhidgamepad.h)(0x5C531FFD)
+I (usb_gamepad_structs.h)(0x587F336F)
+I (buttons.h)(0x587F336F)
+I (..\utils/uartstdio.h)(0x587F336F)
+I (C:\Keil\ARM\ARMCC\include\stdarg.h)(0x51C87C24)
+F (.\usb_gamepad_structs.c)(0x5C509965)(-c --cpu Cortex-M4.fp -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I.. -I..\..\..\.. -IC:\ti\TivaWare_C_Series\ --c99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary-Drvmdk -DPART_TM4C123GH6PM -DTARGET_IS_TM4C123_RA1 -DUART_BUFFERED-o .\rvmdk\usb_gamepad_structs.o --omf_browse .\rvmdk\usb_gamepad_structs.crf --depend .\rvmdk\usb_gamepad_structs.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C87C24)
+I (C:\Keil\ARM\ARMCC\include\stdbool.h)(0x51C87C24)
+I (C:\ti\TivaWare_C_Series\inc\hw_types.h)(0x558DD24A)
+I (..\usblib/usblib.h)(0x587F336F)
+I (..\usblib/usbhid.h)(0x587F336F)
+I (..\usblib/usb-ids.h)(0x587F336F)
+I (..\usblib/device/usbdevice.h)(0x587F336F)
+I (..\usblib/device/usbdevicepriv.h)(0x587F336F)
+I (..\usblib/device/usbdcomp.h)(0x587F336F)
+I (..\usblib/device/usbdhid.h)(0x587F336F)
+I (..\usblib/device/usbdhidgamepad.h)(0x5C531FFD)
+I (usb_gamepad_structs.h)(0x587F336F)
+F (C:\ti\TivaWare_C_Series\driverlib\rvmdk\driverlib.lib)(0x558DD23B)()
+F (..\usblib\rvmdk\usblib.lib)(0x5C531FDE)()
+F (.\readme.txt)(0x587F336F)()

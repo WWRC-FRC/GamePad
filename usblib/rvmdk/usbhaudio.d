@@ -1,0 +1,11 @@
+.\rvmdk\usbhaudio.o: host\usbhaudio.c
+.\rvmdk\usbhaudio.o: C:\Keil\ARM\ARMCC\bin\..\include\stdbool.h
+.\rvmdk\usbhaudio.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\rvmdk\usbhaudio.o: C:\ti\TivaWare_C_Series\inc/hw_types.h
+.\rvmdk\usbhaudio.o: C:\ti\TivaWare_C_Series\driverlib/usb.h
+.\rvmdk\usbhaudio.o: ..\usblib/usblib.h
+.\rvmdk\usbhaudio.o: ..\usblib/usblibpriv.h
+.\rvmdk\usbhaudio.o: ..\usblib/usbaudio.h
+.\rvmdk\usbhaudio.o: ..\usblib/host/usbhost.h
+.\rvmdk\usbhaudio.o: ..\usblib/host/usbhostpriv.h
+.\rvmdk\usbhaudio.o: ..\usblib/host/usbhaudio.h

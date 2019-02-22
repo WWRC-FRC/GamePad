@@ -1,0 +1,9 @@
+.\rvmdk\usbhhidmouse.o: host\usbhhidmouse.c
+.\rvmdk\usbhhidmouse.o: C:\Keil\ARM\ARMCC\bin\..\include\stdbool.h
+.\rvmdk\usbhhidmouse.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\rvmdk\usbhhidmouse.o: C:\ti\TivaWare_C_Series\inc/hw_types.h
+.\rvmdk\usbhhidmouse.o: ..\usblib/usblib.h
+.\rvmdk\usbhhidmouse.o: ..\usblib/host/usbhost.h
+.\rvmdk\usbhhidmouse.o: ..\usblib/usbhid.h
+.\rvmdk\usbhhidmouse.o: ..\usblib/host/usbhhid.h
+.\rvmdk\usbhhidmouse.o: ..\usblib/host/usbhhidmouse.h

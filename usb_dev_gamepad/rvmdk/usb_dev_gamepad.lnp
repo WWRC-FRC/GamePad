@@ -1,0 +1,11 @@
+--cpu Cortex-M4.fp
+".\rvmdk\startup_rvmdk.o"
+".\rvmdk\usb_dev_gamepad.o"
+".\rvmdk\usb_gamepad_structs.o"
+"C:\ti\TivaWare_C_Series\driverlib\rvmdk\driverlib.lib"
+"..\usblib\rvmdk\usblib.lib"
+--library_type=microlib --strict --scatter "usb_dev_gamepad.sct"
+
+--entry Reset_Handler --summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\rvmdk\usb_dev_gamepad.map" -o .\rvmdk\usb_dev_gamepad.axf

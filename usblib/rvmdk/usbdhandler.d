@@ -1,0 +1,12 @@
+.\rvmdk\usbdhandler.o: device\usbdhandler.c
+.\rvmdk\usbdhandler.o: C:\Keil\ARM\ARMCC\bin\..\include\stdbool.h
+.\rvmdk\usbdhandler.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\rvmdk\usbdhandler.o: C:\ti\TivaWare_C_Series\inc/hw_memmap.h
+.\rvmdk\usbdhandler.o: C:\ti\TivaWare_C_Series\inc/hw_types.h
+.\rvmdk\usbdhandler.o: C:\ti\TivaWare_C_Series\driverlib/rom.h
+.\rvmdk\usbdhandler.o: C:\ti\TivaWare_C_Series\driverlib/rom_map.h
+.\rvmdk\usbdhandler.o: C:\ti\TivaWare_C_Series\driverlib/usb.h
+.\rvmdk\usbdhandler.o: ..\usblib/usblib.h
+.\rvmdk\usbdhandler.o: ..\usblib/usblibpriv.h
+.\rvmdk\usbdhandler.o: ..\usblib/device/usbdevice.h
+.\rvmdk\usbdhandler.o: ..\usblib/device/usbdevicepriv.h

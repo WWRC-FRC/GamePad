@@ -1,0 +1,17 @@
+.\rvmdk\usbdma.o: usbdma.c
+.\rvmdk\usbdma.o: C:\Keil\ARM\ARMCC\bin\..\include\stdbool.h
+.\rvmdk\usbdma.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\rvmdk\usbdma.o: C:\ti\TivaWare_C_Series\inc/hw_memmap.h
+.\rvmdk\usbdma.o: C:\ti\TivaWare_C_Series\inc/hw_types.h
+.\rvmdk\usbdma.o: C:\ti\TivaWare_C_Series\inc/hw_ints.h
+.\rvmdk\usbdma.o: C:\ti\TivaWare_C_Series\inc/hw_sysctl.h
+.\rvmdk\usbdma.o: C:\ti\TivaWare_C_Series\inc/hw_udma.h
+.\rvmdk\usbdma.o: C:\ti\TivaWare_C_Series\driverlib/debug.h
+.\rvmdk\usbdma.o: C:\ti\TivaWare_C_Series\driverlib/interrupt.h
+.\rvmdk\usbdma.o: C:\ti\TivaWare_C_Series\driverlib/rtos_bindings.h
+.\rvmdk\usbdma.o: C:\ti\TivaWare_C_Series\driverlib/usb.h
+.\rvmdk\usbdma.o: C:\ti\TivaWare_C_Series\driverlib/rom.h
+.\rvmdk\usbdma.o: C:\ti\TivaWare_C_Series\driverlib/rom_map.h
+.\rvmdk\usbdma.o: C:\ti\TivaWare_C_Series\driverlib/udma.h
+.\rvmdk\usbdma.o: ..\usblib/usblib.h
+.\rvmdk\usbdma.o: ..\usblib/usblibpriv.h

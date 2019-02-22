@@ -1,0 +1,13 @@
+.\rvmdk\usb_gamepad_structs.o: usb_gamepad_structs.c
+.\rvmdk\usb_gamepad_structs.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\rvmdk\usb_gamepad_structs.o: C:\Keil\ARM\ARMCC\bin\..\include\stdbool.h
+.\rvmdk\usb_gamepad_structs.o: C:\ti\TivaWare_C_Series\inc/hw_types.h
+.\rvmdk\usb_gamepad_structs.o: ..\usblib/usblib.h
+.\rvmdk\usb_gamepad_structs.o: ..\usblib/usbhid.h
+.\rvmdk\usb_gamepad_structs.o: ..\usblib/usb-ids.h
+.\rvmdk\usb_gamepad_structs.o: ..\usblib/device/usbdevice.h
+.\rvmdk\usb_gamepad_structs.o: ..\usblib/device/usbdevicepriv.h
+.\rvmdk\usb_gamepad_structs.o: ..\usblib/device/usbdcomp.h
+.\rvmdk\usb_gamepad_structs.o: ..\usblib/device/usbdhid.h
+.\rvmdk\usb_gamepad_structs.o: ..\usblib/device/usbdhidgamepad.h
+.\rvmdk\usb_gamepad_structs.o: usb_gamepad_structs.h

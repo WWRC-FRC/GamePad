@@ -1,0 +1,15 @@
+.\rvmdk\usbdbulk.o: device\usbdbulk.c
+.\rvmdk\usbdbulk.o: C:\Keil\ARM\ARMCC\bin\..\include\stdbool.h
+.\rvmdk\usbdbulk.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\rvmdk\usbdbulk.o: C:\ti\TivaWare_C_Series\inc/hw_memmap.h
+.\rvmdk\usbdbulk.o: C:\ti\TivaWare_C_Series\inc/hw_types.h
+.\rvmdk\usbdbulk.o: C:\ti\TivaWare_C_Series\driverlib/debug.h
+.\rvmdk\usbdbulk.o: C:\ti\TivaWare_C_Series\driverlib/rom.h
+.\rvmdk\usbdbulk.o: C:\ti\TivaWare_C_Series\driverlib/rom_map.h
+.\rvmdk\usbdbulk.o: C:\ti\TivaWare_C_Series\driverlib/usb.h
+.\rvmdk\usbdbulk.o: ..\usblib/usblib.h
+.\rvmdk\usbdbulk.o: ..\usblib/usblibpriv.h
+.\rvmdk\usbdbulk.o: ..\usblib/device/usbdevice.h
+.\rvmdk\usbdbulk.o: ..\usblib/device/usbdevicepriv.h
+.\rvmdk\usbdbulk.o: ..\usblib/device/usbdbulk.h
+.\rvmdk\usbdbulk.o: ..\usblib/device/usbdcomp.h

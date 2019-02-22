@@ -1,0 +1,16 @@
+.\rvmdk\usbdmsc.o: device\usbdmsc.c
+.\rvmdk\usbdmsc.o: C:\Keil\ARM\ARMCC\bin\..\include\stdbool.h
+.\rvmdk\usbdmsc.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\rvmdk\usbdmsc.o: C:\ti\TivaWare_C_Series\inc/hw_memmap.h
+.\rvmdk\usbdmsc.o: C:\ti\TivaWare_C_Series\inc/hw_types.h
+.\rvmdk\usbdmsc.o: C:\ti\TivaWare_C_Series\driverlib/debug.h
+.\rvmdk\usbdmsc.o: C:\ti\TivaWare_C_Series\driverlib/rom.h
+.\rvmdk\usbdmsc.o: C:\ti\TivaWare_C_Series\driverlib/rom_map.h
+.\rvmdk\usbdmsc.o: C:\ti\TivaWare_C_Series\driverlib/sysctl.h
+.\rvmdk\usbdmsc.o: C:\ti\TivaWare_C_Series\driverlib/usb.h
+.\rvmdk\usbdmsc.o: ..\usblib/usblib.h
+.\rvmdk\usbdmsc.o: ..\usblib/usblibpriv.h
+.\rvmdk\usbdmsc.o: ..\usblib/usbmsc.h
+.\rvmdk\usbdmsc.o: ..\usblib/device/usbdevice.h
+.\rvmdk\usbdmsc.o: ..\usblib/device/usbdevicepriv.h
+.\rvmdk\usbdmsc.o: ..\usblib/device/usbdmsc.h
